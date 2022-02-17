@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.15.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MeBlog.IRepository\MeBlog.IRepository.csproj" />
+    <ProjectReference Include="..\MeBlog.IService\MeBlog.IService.csproj" />
+    <ProjectReference Include="..\MeBlog.Model\MeBlog.Model.csproj" />
+    <ProjectReference Include="..\MeBlog.Repository\MeBlog.Repository.csproj" />
+    <ProjectReference Include="..\MeBlog.Service\MeBlog.Service.csproj" />
+  </ItemGroup>
+
+</Project>

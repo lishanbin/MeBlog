@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "237f0b50-29dc-4ae6-be1a-4b3fe9961e7e": {
+      "ProjectGuid": "237f0b50-29dc-4ae6-be1a-4b3fe9961e7e",
+      "DisplayName": "MeBlog.WebApi",
+      "ColorIndex": 0
+    },
+    "86d54da1-2862-40c9-a4da-3f3ab6822464": {
+      "ProjectGuid": "86d54da1-2862-40c9-a4da-3f3ab6822464",
+      "DisplayName": "MeBlog.WebApi",
+      "ColorIndex": 1
+    },
+    "ea06f5d8-9905-48fc-a199-3faf90c7da08": {
+      "ProjectGuid": "ea06f5d8-9905-48fc-a199-3faf90c7da08",
+      "DisplayName": "MeBlog.Model",
+      "ColorIndex": 2
+    },
+    "f0f982d7-d2d4-47b3-852c-12cd3c2f444d": {
+      "ProjectGuid": "f0f982d7-d2d4-47b3-852c-12cd3c2f444d",
+      "DisplayName": "MeBlog.IRepository",
+      "ColorIndex": 3
+    },
+    "6637fb4f-8649-44da-a491-19cb15bfb8f0": {
+      "ProjectGuid": "6637fb4f-8649-44da-a491-19cb15bfb8f0",
+      "DisplayName": "MeBlog.Repository",
+      "ColorIndex": 4
+    },
+    "5eccbb36-e74c-4dc5-b07f-aba7f2ddaef6": {
+      "ProjectGuid": "5eccbb36-e74c-4dc5-b07f-aba7f2ddaef6",
+      "DisplayName": "MeBlog.IService",
+      "ColorIndex": 5
+    },
+    "7db8043d-1902-4358-9a34-aa3a53abb4ac": {
+      "ProjectGuid": "7db8043d-1902-4358-9a34-aa3a53abb4ac",
+      "DisplayName": "MeBlog.Service",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "0510183c-cd94-4004-8314-dd82233a30f9": {
+      "ProjectGuid": "0510183c-cd94-4004-8314-dd82233a30f9",
+      "DisplayName": "MeBlog.JWT",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

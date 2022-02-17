@@ -1,0 +1,15 @@
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\bin\Debug\net5.0\MeBlog.IRepository.deps.json
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\bin\Debug\net5.0\MeBlog.IRepository.dll
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\bin\Debug\net5.0\ref\MeBlog.IRepository.dll
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\bin\Debug\net5.0\MeBlog.IRepository.pdb
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\bin\Debug\net5.0\MeBlog.Model.dll
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\bin\Debug\net5.0\MeBlog.Model.pdb
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\obj\Debug\net5.0\MeBlog.IRepository.csproj.AssemblyReference.cache
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\obj\Debug\net5.0\MeBlog.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\obj\Debug\net5.0\MeBlog.IRepository.AssemblyInfoInputs.cache
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\obj\Debug\net5.0\MeBlog.IRepository.AssemblyInfo.cs
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\obj\Debug\net5.0\MeBlog.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\obj\Debug\net5.0\MeBlog.IRepository.csproj.CopyComplete
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\obj\Debug\net5.0\MeBlog.IRepository.dll
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\obj\Debug\net5.0\ref\MeBlog.IRepository.dll
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IRepository\obj\Debug\net5.0\MeBlog.IRepository.pdb

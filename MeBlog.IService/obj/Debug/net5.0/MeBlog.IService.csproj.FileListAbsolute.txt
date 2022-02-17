@@ -1,0 +1,15 @@
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\bin\Debug\net5.0\MeBlog.IService.deps.json
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\bin\Debug\net5.0\MeBlog.IService.dll
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\bin\Debug\net5.0\ref\MeBlog.IService.dll
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\bin\Debug\net5.0\MeBlog.IService.pdb
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\bin\Debug\net5.0\MeBlog.Model.dll
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\bin\Debug\net5.0\MeBlog.Model.pdb
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\obj\Debug\net5.0\MeBlog.IService.csproj.AssemblyReference.cache
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\obj\Debug\net5.0\MeBlog.IService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\obj\Debug\net5.0\MeBlog.IService.AssemblyInfoInputs.cache
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\obj\Debug\net5.0\MeBlog.IService.AssemblyInfo.cs
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\obj\Debug\net5.0\MeBlog.IService.csproj.CoreCompileInputs.cache
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\obj\Debug\net5.0\MeBlog.IService.csproj.CopyComplete
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\obj\Debug\net5.0\MeBlog.IService.dll
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\obj\Debug\net5.0\ref\MeBlog.IService.dll
+C:\Users\lishanbin\Desktop\DOTNETDEMO\MeBlog\MeBlog.IService\obj\Debug\net5.0\MeBlog.IService.pdb
